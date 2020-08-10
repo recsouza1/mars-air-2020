@@ -14,7 +14,7 @@ This project can run on Windows, Mac and Linux, please follow the steps below to
 commented (with "//")
 3. Now, you just need to run the class CucumberRunner under /src/test/java/runner/CucumberRunner.java for having all the tests executed
 
-Note: If you have problems with Chromedriver, it might be duo to your browser does not match with the driver version.
+Note: If you have problems with Chromedriver, it might be because your browser version does not match with the driver version.
 In this case, please check your browser version and download the equivalent driver at: https://chromedriver.chromium.org/downloads
 and replace it in the folder:
 
