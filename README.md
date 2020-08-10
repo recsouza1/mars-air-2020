@@ -6,6 +6,12 @@ Application's documentation can be found here: https://marsair.thoughtworks-labs
  
 The instructions on how to set up and run this project is here in this readme file.
 
+## **What you need to run this project:**
+* Java
+* Selenium WebDriver
+* JUnit 
+* Cucumber
+
 ## **Instructions:**
 This project can run on Windows, Mac and Linux, please follow the steps below to set up according to your OS:
 
